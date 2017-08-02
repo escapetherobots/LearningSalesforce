@@ -1,0 +1,15 @@
+<aura:component >
+	<input type="text" 
+		aria-activedescendant="" 
+		aria-autocomplete="list" 
+		aria-controls="global-search-list-01" 
+		autocomplete="off" 
+		class="slds-input slds-lookup__search-input" 
+		id="global-search-01" 
+		placeholder="Search for Contact" 
+		role="textbox" 
+		onKeyup="{!c.searchKeyChange}" 
+	/>
+
+	
+</aura:component>

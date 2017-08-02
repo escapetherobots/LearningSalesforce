@@ -1,0 +1,711 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"outline",
+				"outline-offset"
+			],
+			[
+				"allStudents",
+				"allStudentsAndGrades"
+			],
+			[
+				"compone",
+				"componentDidUpdate\t Life Cycle"
+			],
+			[
+				"parse",
+				"parseInt"
+			],
+			[
+				"show",
+				"showModal"
+			],
+			[
+				"updated",
+				"updatedCartItems"
+			],
+			[
+				"dispa",
+				"mapDispatchToProps"
+			],
+			[
+				"component",
+				"componentDidMount\t Life Cycle"
+			],
+			[
+				"navbar",
+				"navbarInstance"
+			],
+			[
+				"componentDid",
+				"componentDidMount\t Life Cycle"
+			],
+			[
+				"Weather",
+				"WeatherList"
+			],
+			[
+				"bind",
+				"bindActionCreators"
+			],
+			[
+				"addBo",
+				"addBook"
+			],
+			[
+				"como",
+				"componentWillMount\t Life Cycle"
+			],
+			[
+				"first",
+				"firstStep"
+			],
+			[
+				"c",
+				"componentWillMount\t Life Cycle"
+			],
+			[
+				"React",
+				"React.PropTypes.number"
+			],
+			[
+				"Prop",
+				"PropTypes.number"
+			],
+			[
+				"ease",
+				"ease-out"
+			],
+			[
+				"fle",
+				"flex-wrap"
+			],
+			[
+				"flex",
+				"flex-basis"
+			],
+			[
+				"firebase",
+				"firebaseRef"
+			],
+			[
+				"e",
+				"RegExp"
+			],
+			[
+				"searchTe",
+				"searchTextReducer"
+			],
+			[
+				"get",
+				"getDefaultProps\t Life Cycle"
+			],
+			[
+				"com",
+				"componentDidUpdate\t Life Cycle"
+			],
+			[
+				"countdown",
+				"countdownStatus"
+			],
+			[
+				"componentD",
+				"componentDidMount\t Life Cycle"
+			],
+			[
+				"handle",
+				"handleStatusChange"
+			],
+			[
+				"paus",
+				"pauseButton"
+			],
+			[
+				"render",
+				"render()\tReactDOM"
+			],
+			[
+				"componentDi",
+				"componentDidUpdate\t Life Cycle"
+			],
+			[
+				"questsPan",
+				"questsPanelGroup"
+			],
+			[
+				"background",
+				"backgroundLayer"
+			],
+			[
+				"webpack",
+				"webpackConfig"
+			],
+			[
+				"Timer",
+				"TimerControls"
+			],
+			[
+				"compon",
+				"componentWillReceiveProps\t Life Cycle"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"encodeURI",
+				"encodeURIComponent"
+			],
+			[
+				"rad",
+				"radarChartData"
+			],
+			[
+				"chart",
+				"chart2"
+			],
+			[
+				"font-st",
+				"font-style"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"table",
+				"table-caption"
+			],
+			[
+				"bac",
+				"background-clip"
+			],
+			[
+				"bebas",
+				"bebas_neuebook"
+			],
+			[
+				"d",
+				"outside"
+			],
+			[
+				"transform",
+				"transform-origin"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"reset",
+				"resetEyeFunc"
+			],
+			[
+				"trans",
+				"transformString1"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"list-group-",
+				"list-group-item-action"
+			],
+			[
+				"propo",
+				"proposalOne\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/classes/OpportunityController.cls",
+			"settings":
+			{
+				"buffer_size": 249,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/classes/ContactController.cls",
+			"settings":
+			{
+				"buffer_size": 582,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 167.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/r2z2/DEV/SalesForce/MavensMateWorkspace01/Workspace/ztest5000",
+		"/Users/r2z2/DEV/SalesForce/MavensMateWorkspace01/Workspace/ztest5000/src",
+		"/Users/r2z2/DEV/SalesForce/MavensMateWorkspace01/Workspace/ztest5000/src/classes"
+	],
+	"file_history":
+	[
+		"/Users/r2z2/DEV/learn_react_2_marco/react-redux-marco/src/client.js",
+		"/Users/r2z2/DEV/learn_react_2_marco/react-redux-marco/requestHandler.js",
+		"/Users/r2z2/DEV/learn_react_2_marco/react-redux-marco/webpack.config.js",
+		"/Users/r2z2/DEV/learn_react_2_marco/react-redux-marco/package.json",
+		"/Users/r2z2/DEV/learn_react_2_marco/react-redux-marco/.gitignore",
+		"/Users/r2z2/DEV/learn_react_2_marco/react-redux-marco/src/routes.js",
+		"/Users/r2z2/DEV/learn_react_2_marco/react-redux-marco/server.js",
+		"/Users/r2z2/DEV/learn_react_2_marco/react-redux-marco/apiServer.js",
+		"/Users/r2z2/DEV/learn_react_2_marco/react-redux-marco/config/productionDB.env",
+		"/Users/r2z2/DEV/learn_react_2_marco/react-redux-marco/src/localData/configData.js",
+		"/Users/r2z2/DEV/learn_react_2_marco/react-redux-marco/app.js",
+		"/Users/r2z2/DEV/learn_react_2_marco/react-redux-marco/views/index.ejs",
+		"/Users/r2z2/DEV/learn_react_2_marco/react-redux-marco/public/style.css",
+		"/Users/r2z2/DEV/learn_react_2_marco/react-redux-marco/src/components/pages/bookItem.js",
+		"/Users/r2z2/DEV/learn_react_2_marco/react-redux-marco/src/components/pages/booksList.js",
+		"/Users/r2z2/DEV/learn_react_2_marco/react-redux-marco/public/indexBackup.html",
+		"/Users/r2z2/DEV/learn_react_2_marco/react-redux-marco/src/reducers/booksReducer.js",
+		"/Users/r2z2/DEV/learn_react_2_marco/react-redux-marco/src/components/pages/booksForm.js",
+		"/Users/r2z2/DEV/learn_react_2_marco/react-redux-marco/src/main.js",
+		"/Users/r2z2/DEV/learn_react_2_marco/react-redux-marco/src/components/pages/cart.js",
+		"/Users/r2z2/DEV/learn_react_2_marco/react-redux-marco/src/actions/cartActions.js",
+		"/Users/r2z2/DEV/learn_react_2_marco/react-redux-marco/public/bundle.js",
+		"/Users/r2z2/DEV/learn_react_2_marco/react-redux-marco/src/actions/bookActions.js",
+		"/Users/r2z2/DEV/learn_react_2_marco/react-redux-marco/src/reducers/cartReducer.js",
+		"/Users/r2z2/DEV/learn_react_2_marco/react-redux-marco/src/components/pages/modal.js",
+		"/Users/r2z2/DEV/learn_react_2_marco/react-redux-marco/src/components/menu.js",
+		"/Users/r2z2/DEV/learn_react_2_marco/react-redux-marco/models/books.js",
+		"/Users/r2z2/DEV/learn_react_2_marco/react-redux-marco/package-lock.json",
+		"/Users/r2z2/DEV/valued/public/style.css",
+		"/Users/r2z2/DEV/valued/src/components/pages/reactMotionA.js",
+		"/Users/r2z2/DEV/valued/package.json",
+		"/Users/r2z2/DEV/valued/src/components/pages/dashboard.js",
+		"/Users/r2z2/DEV/valued/src/components/menu.js",
+		"/Users/r2z2/DEV/valued/src/components/pages/gsapExample01.js",
+		"/Users/r2z2/DEV/valued/src/components/pages/studentDetail.js",
+		"/Users/r2z2/DEV/valued/src/components/pages/graph.js",
+		"/Users/r2z2/DEV/valued/.gitignore",
+		"/Users/r2z2/DEV/valued/src/reducers/studentReducer.js",
+		"/Users/r2z2/DEV/valued/studentData/chartData.js",
+		"/Users/r2z2/DEV/valued/src/actions/studentActions.js",
+		"/Users/r2z2/DEV/valued/src/components/pages/studentGradeGroup.js",
+		"/Users/r2z2/DEV/valued/src/components/pages/studentItem.js",
+		"/Users/r2z2/DEV/valued/src/components/pages/studentList.js",
+		"/Users/r2z2/DEV/valued/src/app.js",
+		"/Users/r2z2/DEV/valued/src/localData/allStudentsAndGrades.js",
+		"/Users/r2z2/DEV/valued/src/localData/chartData.js",
+		"/Users/r2z2/DEV/valued/src/localData/allStudentsAndGrades.csv",
+		"/Users/r2z2/DEV/valued/src/localData/students.js",
+		"/Users/r2z2/DEV/valued/src/components/pages/scrollView.js",
+		"/Users/r2z2/DEV/valued/studentData/scrollData.js",
+		"/Users/r2z2/DEV/valued/public/index.html",
+		"/Users/r2z2/DEV/valued/example-templateLiterals.js",
+		"/Users/r2z2/DEV/valued/example-promise.js",
+		"/Users/r2z2/DEV/domTest.html",
+		"/Users/r2z2/DEV/valued/readme.md",
+		"/Users/r2z2/DEV/valued/src/reducers/index.js",
+		"/Users/r2z2/DEV/valued/src/components/pages/booksList.js",
+		"/Users/r2z2/DEV/valued/package-lock.json",
+		"/Users/r2z2/DEV/valued/webpack.config.js",
+		"/Users/r2z2/DEV/valued/src/localData/csvData.csv",
+		"/Users/r2z2/DEV/valued/src/localData/sageTest.csv",
+		"/Users/r2z2/DEV/valued/src/components/pages/studentSearch.js",
+		"/Users/r2z2/DEV/learn_react_2_marco/react-redux-marco/public/index.html",
+		"/Users/r2z2/DEV/learn_react_2_marco/react-redux-marco/src/components/footer.js",
+		"/Users/r2z2/DEV/learn_react_2_marco/react-redux-marco/src/app.js",
+		"/Users/r2z2/DEV/learn_react_2_marco/react-redux-marco/src/localData/index.js",
+		"/Users/r2z2/DEV/learn_react_2_marco/react-redux-marco/src/reducers/modalReducer.js",
+		"/Users/r2z2/DEV/learn_react_2_marco/react-redux-marco/src/reducers/index.js",
+		"/Users/r2z2/DEV/learn_react_2_marco/react-redux-marco/src/actions/modalActions.js",
+		"/Users/r2z2/DEV/learn_react_2_marco/react-redux-marco/src/components/pages/animationTest.js",
+		"/Users/r2z2/DEV/learn-react-stephen-grider/hoc-project/src/components/require_auth.js",
+		"/Users/r2z2/DEV/learn-react-stephen-grider/hoc-project/src/components/app.js",
+		"/Users/r2z2/DEV/learn-react-stephen-grider/hoc-project/src/components/home_component.js",
+		"/Users/r2z2/DEV/learn-react-stephen-grider/hoc-project/src/components/header_component.js",
+		"/Users/r2z2/DEV/learn-react-stephen-grider/hoc-project/src/components/resources_component.js",
+		"/Users/r2z2/DEV/learn-react-stephen-grider/hoc-project/src/index.js",
+		"/Users/r2z2/DEV/learn-react-stephen-grider/hoc-project/src/reducers/index.js",
+		"/Users/r2z2/DEV/learn-react-stephen-grider/hoc-project/src/reducers/authentication.js",
+		"/Users/r2z2/DEV/learn-react-stephen-grider/hoc-project/src/actions/type.js",
+		"/Users/r2z2/DEV/learn-react-stephen-grider/hoc-project/src/actions/index.js",
+		"/Users/r2z2/DEV/learn-react-stephen-grider/Redux-02-weather/README.md",
+		"/Users/r2z2/DEV/learn-react-stephen-grider/Redux-02-weather/src/containers/search_bar.js",
+		"/Users/r2z2/DEV/learn-react-stephen-grider/Redux-02-weather/src/index.js",
+		"/Users/r2z2/DEV/learn-react-stephen-grider/Redux-02-weather/src/reducers/reducer_weather.js",
+		"/Users/r2z2/DEV/learn-react-stephen-grider/Redux-02-weather/src/containers/weather_list.js",
+		"/Users/r2z2/DEV/learn-react-stephen-grider/Redux-02-weather/src/components/chart_component.js",
+		"/Users/r2z2/DEV/learn-react-stephen-grider/Redux-02-weather/style/style.css",
+		"/Users/r2z2/DEV/learn-react-stephen-grider/Redux-02-weather/index.html",
+		"/Users/r2z2/DEV/learn-react-stephen-grider/Redux-02-weather/src/components/map_component.js",
+		"/Users/r2z2/DEV/learn-react-stephen-grider/Redux-02-weather/src/actions/index.js",
+		"/Users/r2z2/DEV/learn-react-stephen-grider/Redux-02-weather/.gitignore",
+		"/Users/r2z2/DEV/learn-react-stephen-grider/Redux-02-weather/src/components/app.js",
+		"/Users/r2z2/DEV/learn-react-stephen-grider/Redux-02-weather/package.json",
+		"/Users/r2z2/DEV/learn-react-stephen-grider/Redux-02-weather/src/reducers/index.js",
+		"/Users/r2z2/DEV/learn-react-stephen-grider/Redux-02-weather/src/api/openWeatherApi.js",
+		"/Users/r2z2/DEV/learn-react-stephen-grider/Redux-01/src/reducers/reducer_active_book.js",
+		"/Users/r2z2/DEV/learn-react-stephen-grider/Redux-01/src/containers/book-detail.js",
+		"/Users/r2z2/DEV/learn-react-stephen-grider/Redux-01/src/reducers/index.js",
+		"/Users/r2z2/DEV/learn-react-stephen-grider/Redux-01/src/containers/book-list.js",
+		"/Users/r2z2/DEV/learn-react-stephen-grider/Redux-01/src/containers/book-add.js",
+		"/Users/r2z2/DEV/learn-react-stephen-grider/Redux-01/src/actions/index.js",
+		"/Users/r2z2/DEV/learn-react-stephen-grider/Redux-01/src/components/app.js",
+		"/Users/r2z2/DEV/learn-react-stephen-grider/Redux-01/src/reducers/reducer_books.js",
+		"/Users/r2z2/DEV/learn-react-stephen-grider/Redux-01/src/reducers/reducer_add_book.js",
+		"/Users/r2z2/DEV/learn-react-stephen-grider/Redux-01/README.md",
+		"/Users/r2z2/DEV/learn-react-stephen-grider/Redux-01/src/store/configureStore.jsx",
+		"/Users/r2z2/DEV/learn-react-stephen-grider/Redux-01/src/components/book-list.js",
+		"/Users/r2z2/DEV/learn-react-stephen-grider/Redux-01/src/reducers/untitled",
+		"/Users/r2z2/DEV/learn_react/react_todo-es6/app/store/configureStore.jsx",
+		"/Users/r2z2/DEV/learn_react/react_todo-es6/app/router/index.jsx",
+		"/Users/r2z2/DEV/learn_react/react_todo-es6/app/components/Nav.jsx",
+		"/Users/r2z2/DEV/learn_react/react_todo-es6/app/components/Extra.jsx",
+		"/Users/r2z2/DEV/learn_react/react_todo-es6/app/components/Main.jsx",
+		"/Users/r2z2/DEV/learn_react/react_todo-es6/app/components/TodoSearch.jsx",
+		"/Users/r2z2/DEV/learn_react/react_todo-es6/app/components/TodoList.jsx",
+		"/Users/r2z2/DEV/learn_react/react_todo-es6/app/components/TodoApp.jsx",
+		"/Users/r2z2/DEV/learn_react/react_todo-es6/app/api/TodoAPI.jsx",
+		"/Users/r2z2/DEV/learn_react/react_todo-es6/app/components/TodoAdd.jsx",
+		"/Users/r2z2/DEV/learn_react/react_todo-es6/app/components/Login.jsx",
+		"/Users/r2z2/DEV/learn_react/react_todo-es6/app/components/Todo.jsx",
+		"/Users/r2z2/DEV/learn_react/react-es6-classes/playground/autobinding.js",
+		"/Users/r2z2/DEV/learn_react/react-es6-classes/playground/higher-order-funcs.js",
+		"/Users/r2z2/DEV/learn_react/react-es6-classes/playground/classes.js",
+		"/Users/r2z2/DEV/learn_react/react-es6-classes/app/components/ComponentOne.jsx",
+		"/Users/r2z2/DEV/learn_react/react-es6-classes/app/app.jsx",
+		"/Users/r2z2/DEV/learn_react/react-es6-classes/app/components/Component2.jsx",
+		"/Users/r2z2/DEV/__RubyOnRails_Learn/BlogTest/app/assets/stylesheets/nav/_nav-resume.scss",
+		"/Users/r2z2/DEV/__RubyOnRails_Learn/BlogTest/app/assets/javascripts/init.js"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			".",
+			"*.scss",
+			"*.css",
+			"*.scss",
+			".",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"express get request",
+			"open(",
+			"open",
+			"itemArr.map",
+			".table",
+			"gs_green",
+			"renderStudentList",
+			"getBooks(",
+			"<Modal",
+			"modal",
+			"id",
+			"booksArr",
+			"class",
+			"startupdateorder",
+			"dispat",
+			"dispathx",
+			"order",
+			"update",
+			"transition",
+			"scale",
+			"reducer",
+			"todosList",
+			"escudo",
+			"countdownStatus",
+			"button",
+			"time",
+			"loadLevel",
+			"background",
+			"mariohills",
+			"green",
+			"collisionLayer",
+			"loadLevel",
+			"level2",
+			"walk",
+			"init",
+			"walk",
+			"console",
+			"currentLevel",
+			"gameOVer",
+			"collect",
+			"Item",
+			"defenseLabel",
+			"defenseIcon",
+			"walk",
+			"healthLabel",
+			"healthIcon",
+			"sizeActionBtn",
+			"goldLabel",
+			"goldIcon",
+			"goldLabel",
+			"goldIcon",
+			"strength",
+			"Player",
+			"player",
+			"Player",
+			"transi",
+			"after",
+			"c",
+			"cd",
+			"h2",
+			"-4",
+			"left",
+			"width",
+			"right",
+			"arm",
+			"item",
+			"main",
+			"roboto",
+			"url",
+			"300",
+			"roboto",
+			"header",
+			"rotate",
+			"show-bg",
+			"btn",
+			"btn-group",
+			"item-content",
+			"img",
+			"--item",
+			"span",
+			"icon",
+			";\n",
+			"container",
+			"cd-nav",
+			"@include",
+			"zhexContent",
+			"content",
+			"image",
+			"hex",
+			"zhex",
+			"asset-url",
+			"url",
+			"merri",
+			"hex",
+			"linecolor",
+			"https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiqkK2ItobTAhUD-2MKHQSnBCMQjRwIBw&url=http%3A%2F%2Fwww.freepik.com%2Ffree-vectors%2Fbusiness&bvm=bv.151325232,d.dGc&psig=AFQjCNHYnah_JN49MdkV5ES_lGxIAPAung&ust=1491244823939856",
+			"creativecrux.s3.amazonaws.com/images/_thumbs-184/bike-site-01.jpg",
+			"<template>",
+			"portfolio_url"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/classes/OpportunityController.cls",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 249,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MavensMate/sublime/lang/Apex.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/classes/ContactController.cls",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 582,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MavensMate/sublime/lang/Apex.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.MavensMate-OutputPanel":
+	{
+		"height": 124.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ztest5000.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 329.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
